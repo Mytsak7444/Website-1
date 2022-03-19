@@ -437,8 +437,6 @@ ul{
    .content{
       height: 965px;
    }
-}
-@media(max-width: 370px){
    .title1{
       font-size: 30px;
    }
