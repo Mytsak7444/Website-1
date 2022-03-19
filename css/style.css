@@ -199,6 +199,8 @@ ul{
 .text{
    height: 394px;
    background-image: url(../img/text__background.png);
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 .text__text{
    font-size: 47px;
